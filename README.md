@@ -1,7 +1,7 @@
 # Hi, I'm Farooqh  👋🏾 👩🏾‍💻
 
 
-[![Linkedin: Farooq](https://www.linkedin.com/in/mohammed-farooqh-pasha-3149a4185/)]
+
 
  
 ![coding](https://user-images.githubusercontent.com/107852356/175761069-01746791-05f3-4341-b8a9-9b7e7e39dca3.gif)
