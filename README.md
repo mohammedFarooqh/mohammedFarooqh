@@ -3,7 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/tanyarajhans7?label=Follow)](https://twitter.com/intent/follow?screen_name=tanyarajhans7)
 [![Linkedin: Tanya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/tanyarajhans/)
 
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=mohammed7&color=brightgreen">  
+ 
+![coding](https://user-images.githubusercontent.com/107852356/175761069-01746791-05f3-4341-b8a9-9b7e7e39dca3.gif)
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
 
