@@ -1,7 +1,7 @@
 # Hi, I'm Farooqh  👋🏾 👩🏾‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tanyarajhans7?label=Follow)](https://twitter.com/intent/follow?screen_name=tanyarajhans7)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/tanyarajhans/)
+[![Linkedin: Tanya](https://www.linkedin.com/in/mohammed-farooqh-pasha-3149a4185/)](https://www.linkedin.com/in/tanyarajhans/)
 
  
 ![coding](https://user-images.githubusercontent.com/107852356/175761069-01746791-05f3-4341-b8a9-9b7e7e39dca3.gif)
