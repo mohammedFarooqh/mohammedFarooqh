@@ -13,10 +13,10 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I Have Completed   Electronics and Communication Engineering at VTU.\
-💡 &nbsp;Some technologies I enjoy working with include  and ExpressJS. Currently exploring Dart/Flutter.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at @gmail.com! I'll try to respond as soon as I can.
+🎓 &nbsp;I Have Completed Electronics and Communication Engineering at VTU.\
+💡 &nbsp;Some technologies I enjoy working with include Cloud and Security. Currently exploring Network Security.\
+🌱 &nbsp;I'm on track for learning more about AWS and Security.\
+✉️ &nbsp;You can shoot me an email at pashamohammedfarooqh@gmail.com! I'll try to respond as soon as I can.
 
 
 
