@@ -6,7 +6,7 @@
  
 ![coding](https://user-images.githubusercontent.com/107852356/175761069-01746791-05f3-4341-b8a9-9b7e7e39dca3.gif)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
+
 
 
 ## 👨🏻‍💻 &nbsp;About Me
